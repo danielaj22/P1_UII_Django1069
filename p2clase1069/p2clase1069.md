@@ -1,0 +1,14 @@
+- crear aplicacion zuñigaclase_app
+- comando --> python manage.py startapp zuñigaclase_app
+- creamos el archivo urls.py en zuñigaclase_app
+- ![alt text](image.png)
+en setting.py de p2clase1069
+- ![alt text](image-1.png)
+- en urls.py de p2clase1069
+- ![alt text](image-2.png)
+- en urls.py de zuñigaclase_app
+- ![alt text](image-3.png)
+- en views.py en zuñigaclase_app
+- ![alt text](image-4.png)
+- en urls.py en zuñigaclase_app
+- ![alt text](image-5.png)
